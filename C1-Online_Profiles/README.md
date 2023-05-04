@@ -16,4 +16,4 @@ https://www.linkedin.com/in/jermarcobritton/
 
 ### Resume
 
-Resume PDF has been uploaded to GitHub repo.
+https://docs.google.com/document/d/1_llMaw-at4SMq7SZbGAZdzmTCW-QS6C-iN4hTNWLgqI/edit#
